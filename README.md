@@ -11,9 +11,11 @@
 💱️🧉️🔑️
 
 
-[Libraries](https://pypi.org/user/fedecalendino):
+[Python Libraries](https://pypi.org/user/fedecalendino):
 ---
 
 * [![GitHub](https://img.shields.io/badge/github-nintendeals-black?logo=github)](https://github.com/fedecalendino/nintendeals) [![Version](https://img.shields.io/pypi/v/nintendeals?logo=pypi)](https://pypi.org/project/nintendeals)
 * [![GitHub](https://img.shields.io/badge/github-pysub--parser-black?logo=github)](https://github.com/fedecalendino/pysub-parser) [![Version](https://img.shields.io/pypi/v/pysub-parser?logo=pypi)](https://pypi.org/project/pysub-parser)
 * [![GitHub](https://img.shields.io/badge/github-wrap--genius-black?logo=github)](https://github.com/fedecalendino/wrap-genius) [![Version](https://img.shields.io/pypi/v/wrap-genius?logo=pypi)](https://pypi.org/project/wrap-genius)
+
+🐍️
