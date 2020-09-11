@@ -1,6 +1,4 @@
-### Hola! Hi! Ciao! Ahoj! 👋
-
-Here is some of my stuff 😄️
+### Here is some of my stuff 😄️
 
 
 [Alfred Workflows](https://alfredapp.com/workflows):
