@@ -20,3 +20,9 @@
 * [![GitHub](https://img.shields.io/badge/github-wrap--genius-black?logo=github)](https://github.com/fedecalendino/wrap-genius) [![Version](https://img.shields.io/pypi/v/wrap-genius?label=&color=lightgrey&logo=pypi)](https://pypi.org/project/wrap-genius)
 
 🐍️
+
+
+Dumb Projects:
+---
+
+* [![GitHub](https://img.shields.io/badge/github-binging--stonks-black?logo=github)](https://github.com/fedecalendino/binging-stonks)
