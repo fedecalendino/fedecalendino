@@ -23,6 +23,13 @@
 🐍️
 
 
+Reddit Bots:
+---
+
+* [![GitHub](https://img.shields.io/badge/github-app--info--bot-black?logo=github)](https://github.com/fedecalendino/app-info-bot)
+
+
+
 Dumb Projects:
 ---
 
