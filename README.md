@@ -23,6 +23,11 @@
 
 🐍️
 
+GitHub Actions:
+---
+
+* [![GitHub](https://img.shields.io/badge/github-slack--release--notifier-black?logo=github)](https://github.com/marketplace/actions/slack-release-notifier)
+
 
 Reddit Bots:
 ---
