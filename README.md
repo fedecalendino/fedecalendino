@@ -26,7 +26,7 @@
 GitHub Actions:
 ---
 
-* [![GitHub](https://img.shields.io/badge/github-slack--release--notifier-black?logo=github)](https://github.com/marketplace/actions/slack-release-notifier)
+* [![GitHub](https://img.shields.io/badge/github-slack--release--notifier-black?logo=github)](https://github.com/marketplace/actions/slack-release-notifier) [![Version](https://img.shields.io/github/v/release/fedecalendino/slack-release-notifier?label=&color=lightgrey&logo=github)](https://github.com/fedecalendino/slack-release-notifier/releases)  
 
 
 Reddit Bots:
