@@ -23,10 +23,13 @@
 
 🐍️
 
+
 GitHub Actions:
 ---
 
 * [![GitHub](https://img.shields.io/badge/github-slack--release--notifier-black?logo=github)](https://github.com/marketplace/actions/slack-release-notifier) [![Version](https://img.shields.io/github/v/release/fedecalendino/slack-release-notifier?label=&color=lightgrey&logo=github)](https://github.com/fedecalendino/slack-release-notifier/releases)  
+* [![GitHub](https://img.shields.io/badge/github-sonarqube--scanner--trigger-black?logo=github)](https://github.com/marketplace/actions/sonarqube-scanner-trigger) [![Version](https://img.shields.io/github/v/release/fedecalendino/sonarqube-scanner-trigger?label=&color=lightgrey&logo=github)](https://github.com/fedecalendino/sonarqube-scanner-trigger/releases)  
+
 
 
 Reddit Bots:
