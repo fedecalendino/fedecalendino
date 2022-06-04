@@ -41,7 +41,8 @@ Reddit Bots:
 
 
 
-Dumb Projects:
+Jupyter Notebooks:
 ---
 
-* [![GitHub](https://img.shields.io/badge/github-binging--stonks-black?logo=github)](https://github.com/fedecalendino/binging-stonks)
+* [![GitHub](https://img.shields.io/badge/github-binging--stonks-black?logo=github)](https://github.com/fedecalendino/binging-stonks) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fedecalendino/binging-stonks/main?labpath=notebook.ipynb)
+
