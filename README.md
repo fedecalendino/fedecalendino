@@ -23,7 +23,7 @@
 * [![GitHub](https://img.shields.io/badge/github-pysub--parser-black?logo=github)](https://github.com/fedecalendino/pysub-parser) [![Version](https://img.shields.io/pypi/v/pysub-parser?label=pypi&color=lightgrey&logoColor=white&logo=pypi)](https://pypi.org/project/pysub-parser)
 * [![GitHub](https://img.shields.io/badge/github-wrap--genius-black?logo=github)](https://github.com/fedecalendino/wrap-genius) [![Version](https://img.shields.io/pypi/v/wrap-genius?label=pypi&color=lightgrey&logoColor=white&logo=pypi)](https://pypi.org/project/wrap-genius)
 
-🐍️
+:snake:
 
 
 GitHub Actions:
