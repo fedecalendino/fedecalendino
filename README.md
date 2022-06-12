@@ -83,5 +83,10 @@ Reddit Bots
 Jupyter Notebooks
 -----------------
 
-* [![GitHub](https://img.shields.io/badge/github-binging--stonks-black?logo=github)](https://github.com/fedecalendino/binging-stonks) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fedecalendino/binging-stonks/main?labpath=notebook.ipynb)
+* [![GitHub](https://img.shields.io/badge/github-binging--stonks-black?logo=github)](https://github.com/fedecalendino/binging-stonks)
+
+![Avatar: The Last Airbender](https://raw.githubusercontent.com/fedecalendino/binging-stonks/main/img/avatar-the-last-airbender.png)
+> [Try it out! @ MyBinder](https://mybinder.org/v2/gh/fedecalendino/binging-stonks/main?labpath=notebook.ipynb)
+
+
 
