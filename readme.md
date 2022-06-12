@@ -5,7 +5,9 @@ ABOUT ME
 WHO?
 ----
 
-I'm a passionate software engineer with a focus on backend development. I enjoy scripting, code generation, automation, and web scraping. Always happy to help, eager to travel, and excited to learn new things.
+I'm a passionate software engineer with a focus on backend development. I enjoy scripting, code generation, automation, and web scraping. Always happy to help, eager to travel, and excited to learn new things. 
+
+Currently working as a Software Engineer at [ <img src="./microsoft.png" width="16" height="16"> Microsoft](https://microsoft.com).
 
 
 WHERE?
