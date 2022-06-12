@@ -55,14 +55,14 @@ PROJECTS
 [Alfred Workflows](https://alfredapp.com/workflows)
 ------------------
 
-* [![GitHub](https://img.shields.io/badge/🔤️-alfred--case--converter-black?labelColor=white)](https://github.com/fedecalendino/alfred-case-converter) [![Version](https://img.shields.io/github/v/release/fedecalendino/alfred-case-converter?label=&color=lightgrey&logo=github)](https://github.com/fedecalendino/alfred-case-converter/releases)  
-* [![GitHub](https://img.shields.io/badge/🪙️-alfred--crypto--prices-black?labelColor=white)](https://github.com/fedecalendino/alfred-crypto-prices) [![Version](https://img.shields.io/github/v/release/fedecalendino/alfred-crypto-prices?label=&color=lightgrey&logo=github)](https://github.com/fedecalendino/alfred-crypto-prices/releases)  
-* [![GitHub](https://img.shields.io/badge/💱️-alfred--currency--converter-black?labelColor=white)](https://github.com/fedecalendino/alfred-currency-converter) [![Version](https://img.shields.io/github/v/release/fedecalendino/alfred-currency-converter?label=&color=lightgrey&logo=github)](https://github.com/fedecalendino/alfred-currency-converter/releases)  
-* [![GitHub](https://img.shields.io/badge/🧉️-alfred--emoji--mate-black?labelColor=white)](https://github.com/fedecalendino/alfred-emoji-mate) [![Version](https://img.shields.io/github/v/release/fedecalendino/alfred-emoji-mate?label=&color=lightgrey&logo=github)](https://github.com/fedecalendino/alfred-emoji-mate/releases)  
-* [![GitHub](https://img.shields.io/badge/🎶️-alfred--lyrics--finder-black?labelColor=white)](https://github.com/fedecalendino/alfred-lyrics-finder) [![Version](https://img.shields.io/github/v/release/fedecalendino/alfred-lyrics-finder?label=&color=lightgrey&logo=github)](https://github.com/fedecalendino/alfred-lyrics-finder/releases)  
-* [![GitHub](https://img.shields.io/badge/🔑️-alfred--pwd--gen-black?labelColor=white)](https://github.com/fedecalendino/alfred-pwd-gen) [![Version](https://img.shields.io/github/v/release/fedecalendino/alfred-pwd-gen?label=&color=lightgrey&logo=github)](https://github.com/fedecalendino/alfred-pwd-gen/releases)
-* [![GitHub](https://img.shields.io/badge/🎲️-alfred--randomer-black?labelColor=white)](https://github.com/fedecalendino/alfred-randomer) [![Version](https://img.shields.io/github/v/release/fedecalendino/alfred-randomer?label=&color=lightgrey&logo=github)](https://github.com/fedecalendino/alfred-randomer/releases)
-* [![GitHub](https://img.shields.io/badge/🌐️-alfred--world--clock-black?labelColor=white)](https://github.com/fedecalendino/alfred-world-clock) [![Version](https://img.shields.io/github/v/release/fedecalendino/alfred-world-clock?label=&color=lightgrey&logo=github)](https://github.com/fedecalendino/alfred-world-clock/releases)
+* [![GitHub](https://img.shields.io/badge/🔤️-alfred--case--converter-black?labelColor=blueviolet)](https://github.com/fedecalendino/alfred-case-converter) [![Version](https://img.shields.io/github/v/release/fedecalendino/alfred-case-converter?label=&color=lightgrey&logo=github)](https://github.com/fedecalendino/alfred-case-converter/releases)  
+* [![GitHub](https://img.shields.io/badge/🪙️-alfred--crypto--prices-black?labelColor=blueviolet)](https://github.com/fedecalendino/alfred-crypto-prices) [![Version](https://img.shields.io/github/v/release/fedecalendino/alfred-crypto-prices?label=&color=lightgrey&logo=github)](https://github.com/fedecalendino/alfred-crypto-prices/releases)  
+* [![GitHub](https://img.shields.io/badge/💱️-alfred--currency--converter-black?labelColor=blueviolet)](https://github.com/fedecalendino/alfred-currency-converter) [![Version](https://img.shields.io/github/v/release/fedecalendino/alfred-currency-converter?label=&color=lightgrey&logo=github)](https://github.com/fedecalendino/alfred-currency-converter/releases)  
+* [![GitHub](https://img.shields.io/badge/🧉️-alfred--emoji--mate-black?labelColor=blueviolet)](https://github.com/fedecalendino/alfred-emoji-mate) [![Version](https://img.shields.io/github/v/release/fedecalendino/alfred-emoji-mate?label=&color=lightgrey&logo=github)](https://github.com/fedecalendino/alfred-emoji-mate/releases)  
+* [![GitHub](https://img.shields.io/badge/🎶️-alfred--lyrics--finder-black?labelColor=blueviolet)](https://github.com/fedecalendino/alfred-lyrics-finder) [![Version](https://img.shields.io/github/v/release/fedecalendino/alfred-lyrics-finder?label=&color=lightgrey&logo=github)](https://github.com/fedecalendino/alfred-lyrics-finder/releases)  
+* [![GitHub](https://img.shields.io/badge/🔑️-alfred--pwd--gen-black?labelColor=blueviolet)](https://github.com/fedecalendino/alfred-pwd-gen) [![Version](https://img.shields.io/github/v/release/fedecalendino/alfred-pwd-gen?label=&color=lightgrey&logo=github)](https://github.com/fedecalendino/alfred-pwd-gen/releases)
+* [![GitHub](https://img.shields.io/badge/🎲️-alfred--randomer-black?labelColor=blueviolet)](https://github.com/fedecalendino/alfred-randomer) [![Version](https://img.shields.io/github/v/release/fedecalendino/alfred-randomer?label=&color=lightgrey&logo=github)](https://github.com/fedecalendino/alfred-randomer/releases)
+* [![GitHub](https://img.shields.io/badge/🌐️-alfred--world--clock-black?labelColor=blueviolet)](https://github.com/fedecalendino/alfred-world-clock) [![Version](https://img.shields.io/github/v/release/fedecalendino/alfred-world-clock?label=&color=lightgrey&logo=github)](https://github.com/fedecalendino/alfred-world-clock/releases)
 
 
 GitHub Actions
@@ -76,8 +76,8 @@ GitHub Actions
 Bots
 ----
 
-* [![GitHub](https://img.shields.io/badge/github-app--info--bot-black?logo=reddit)](https://github.com/fedecalendino/app-info-bot)
-* [![GitHub](https://img.shields.io/badge/github-spotify--companion-black?logo=spotify)](https://github.com/fedecalendino/spotify-companion)
+* [![GitHub](https://img.shields.io/badge/reddit-app--info--bot-black?logo=reddit)](https://github.com/fedecalendino/app-info-bot)
+* [![GitHub](https://img.shields.io/badge/spotify-spotify--companion-black?logo=spotify)](https://github.com/fedecalendino/spotify-companion)
 
 
 
