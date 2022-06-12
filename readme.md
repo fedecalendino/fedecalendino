@@ -73,10 +73,11 @@ GitHub Actions
 
 
 
-Reddit Bots
------------
+Bots
+----
 
-* [![GitHub](https://img.shields.io/badge/github-app--info--bot-black?logo=github)](https://github.com/fedecalendino/app-info-bot)
+* [![GitHub](https://img.shields.io/badge/github-app--info--bot-black?logo=reddit)](https://github.com/fedecalendino/app-info-bot)
+* [![GitHub](https://img.shields.io/badge/github-spotify--companion-black?logo=spotify)](https://github.com/fedecalendino/spotify-companion)
 
 
 
