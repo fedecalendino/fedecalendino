@@ -37,7 +37,7 @@ My favorite things to work on:
 WHEN?
 -----
 
-For a 🍺️? Anytime!
+For 🧉 or 🍺️? Anytime!
 
 
 PROJECTS
