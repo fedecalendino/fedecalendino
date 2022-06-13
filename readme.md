@@ -39,7 +39,7 @@ My favorite things to work on:
 WHEN?
 -----
 
-For  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/mate_1f9c9.png" width="16" height="16"> or <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/beer-mug_1f37a.png" width="16" height="16">⠀? Anytime!
+For [<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/mate_1f9c9.png" width="16" height="16">](https://en.wikipedia.org/wiki/Yerba_mate) or <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/beer-mug_1f37a.png" width="16" height="16">? Anytime!
 
 
 PROJECTS
