@@ -7,15 +7,15 @@ WHO?
 
 I'm a passionate software engineer with a focus on backend development. I enjoy scripting, code generation, automation, and web scraping. Always happy to help, eager to travel, and excited to learn new things. 
 
-Currently working as a Software Engineer at [<img src="./microsoft.png" width="16" height="16"> Microsoft](https://microsoft.com).
+Currently working as a Software Engineer at [Microsoft](https://microsoft.com) <img src="./microsoft.png" width="16" height="16"> 
 
 
 WHERE?
 ------
 
-I'm from [Bahía Blanca, Argentina](https://goo.gl/maps/yCJYkgUgTPEzmUKaA)  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/flag-argentina_1f1e6-1f1f7.png" width="16" height="16">.
+I'm from [Bahía Blanca, Argentina](https://goo.gl/maps/yCJYkgUgTPEzmUKaA)  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/flag-argentina_1f1e6-1f1f7.png" width="16" height="16">
 
-I'm currently living in [Prague, Czech Republic](https://goo.gl/maps/zuu1k8Wq6HZSK47G9) <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/flag-czechia_1f1e8-1f1ff.png" width="16" height="16">.
+I'm currently living in [Prague, Czech Republic](https://goo.gl/maps/zuu1k8Wq6HZSK47G9) <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/flag-czechia_1f1e8-1f1ff.png" width="16" height="16">
 
 
 WHAT?
