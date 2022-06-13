@@ -13,9 +13,9 @@ Currently working as a Software Engineer at⠀[<img src="./microsoft.png" width=
 WHERE?
 ------
 
-I'm from [Bahía Blanca, Argentina 🇦🇷️](https://goo.gl/maps/yCJYkgUgTPEzmUKaA).
+I'm from [Bahía Blanca, Argentina](https://goo.gl/maps/yCJYkgUgTPEzmUKaA)  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/flag-argentina_1f1e6-1f1f7.png" width="16" height="16">.
 
-I'm currently living in [Prague, Czech Republic 🇨🇿️](https://goo.gl/maps/zuu1k8Wq6HZSK47G9).
+I'm currently living in [Prague, Czech Republic](https://goo.gl/maps/zuu1k8Wq6HZSK47G9) <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/flag-czechia_1f1e8-1f1ff.png" width="16" height="16">.
 
 
 WHAT?
@@ -39,7 +39,7 @@ My favorite things to work on:
 WHEN?
 -----
 
-For 🧉 or 🍺️? Anytime!
+For  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/mate_1f9c9.png" width="16" height="16"> or <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/beer-mug_1f37a.png" width="16" height="16">⠀? Anytime!
 
 
 PROJECTS
