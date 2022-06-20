@@ -7,7 +7,7 @@ WHO?
 
 I'm a passionate software engineer with a focus on backend development. I enjoy scripting, code generation, automation, and web scraping. Always happy to help, eager to travel, and excited to learn new things. 
 
-Currently working as a Software Engineer at [Microsoft](https://github.com/microsoft) <img src="https://avatars.githubusercontent.com/u/6154722?s=200&v=4" width="16" height="16"> 
+Currently working as a Software Engineer at [Microsoft](https://github.com/microsoft) <img src="https://avatars.githubusercontent.com/u/6154722" width="16" height="16"> 
 
 
 WHERE?
