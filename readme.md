@@ -48,6 +48,7 @@ PROJECTS
 [Python Libraries](https://pypi.org/user/fedecalendino)
 ------------------
 
+* [![GitHub](https://img.shields.io/badge/github-alfred--pyflow-black?logo=github)](https://github.com/fedecalendino/alfred-pyflow) [![Version](https://img.shields.io/pypi/v/alfred-pyflow?label=pypi&color=lightgrey&logoColor=white&logo=pypi)](https://pypi.org/project/alfred-pyflow)
 * [![GitHub](https://img.shields.io/badge/github-apple--health-black?logo=github)](https://github.com/fedecalendino/apple-health) [![Version](https://img.shields.io/pypi/v/apple-health?label=pypi&color=lightgrey&logoColor=white&logo=pypi)](https://pypi.org/project/apple-health)
 * [![GitHub](https://img.shields.io/badge/github-nintendeals-black?logo=github)](https://github.com/fedecalendino/nintendeals) [![Version](https://img.shields.io/pypi/v/nintendeals?label=pypi&color=lightgrey&logoColor=white&logo=pypi)](https://pypi.org/project/nintendeals)
 * [![GitHub](https://img.shields.io/badge/github-pysub--parser-black?logo=github)](https://github.com/fedecalendino/pysub-parser) [![Version](https://img.shields.io/pypi/v/pysub-parser?label=pypi&color=lightgrey&logoColor=white&logo=pypi)](https://pypi.org/project/pysub-parser)
