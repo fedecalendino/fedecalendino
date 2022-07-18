@@ -58,7 +58,7 @@ PROJECTS
 [Alfred Workflows](https://alfredapp.com/workflows)
 ------------------
 
-* [![GitHub](https://img.shields.io/badge/alfred-case--converter-black?logo=alfred)](https://github.com/fedecalendino/alfred-case-converter) [![Version](https://img.shields.io/github/v/release/fedecalendino/alfred-case-converter?label=&color=lightgrey&logo=github)](https://github.com/fedecalendino/alfred-case-converter/releases)  
+* [![GitHub](https://img.shields.io/badge/alfred-string--toolkit-black?logo=alfred)](https://github.com/fedecalendino/alfred-string-toolkit) [![Version](https://img.shields.io/github/v/release/fedecalendino/alfred-string-toolkit?label=&color=lightgrey&logo=github)](https://github.com/fedecalendino/alfred-string-toolkit/releases)  
 * [![GitHub](https://img.shields.io/badge/alfred-crypto--prices-black?logo=alfred)](https://github.com/fedecalendino/alfred-crypto-prices) [![Version](https://img.shields.io/github/v/release/fedecalendino/alfred-crypto-prices?label=&color=lightgrey&logo=github)](https://github.com/fedecalendino/alfred-crypto-prices/releases)  
 * [![GitHub](https://img.shields.io/badge/alfred-currency--converter-black?logo=alfred)](https://github.com/fedecalendino/alfred-currency-converter) [![Version](https://img.shields.io/github/v/release/fedecalendino/alfred-currency-converter?label=&color=lightgrey&logo=github)](https://github.com/fedecalendino/alfred-currency-converter/releases)  
 * [![GitHub](https://img.shields.io/badge/alfred-emoji--mate-black?logo=alfred)](https://github.com/fedecalendino/alfred-emoji-mate) [![Version](https://img.shields.io/github/v/release/fedecalendino/alfred-emoji-mate?label=&color=lightgrey&logo=github)](https://github.com/fedecalendino/alfred-emoji-mate/releases)  
