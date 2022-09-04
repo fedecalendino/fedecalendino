@@ -52,6 +52,7 @@ PROJECTS
 * [![GitHub](https://img.shields.io/badge/github-apple--health-black?logo=github)](https://github.com/fedecalendino/apple-health) [![Version](https://img.shields.io/pypi/v/apple-health?label=&color=lightgrey&logoColor=white&logo=pypi)](https://pypi.org/project/apple-health)
 * [![GitHub](https://img.shields.io/badge/github-nintendeals-black?logo=github)](https://github.com/fedecalendino/nintendeals) [![Version](https://img.shields.io/pypi/v/nintendeals?label=&color=lightgrey&logoColor=white&logo=pypi)](https://pypi.org/project/nintendeals)
 * [![GitHub](https://img.shields.io/badge/github-pysub--parser-black?logo=github)](https://github.com/fedecalendino/pysub-parser) [![Version](https://img.shields.io/pypi/v/pysub-parser?label=&color=lightgrey&logoColor=white&logo=pypi)](https://pypi.org/project/pysub-parser)
+* [![GitHub](https://img.shields.io/badge/github-slack--hooks-black?logo=github)](https://github.com/fedecalendino/slack-hooks) [![Version](https://img.shields.io/pypi/v/slack-hooks?label=&color=lightgrey&logoColor=white&logo=pypi)](https://pypi.org/project/slack-hooks)
 * [![GitHub](https://img.shields.io/badge/github-wrap--genius-black?logo=github)](https://github.com/fedecalendino/wrap-genius) [![Version](https://img.shields.io/pypi/v/wrap-genius?label=&color=lightgrey&logoColor=white&logo=pypi)](https://pypi.org/project/wrap-genius)
 
 
