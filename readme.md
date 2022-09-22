@@ -85,7 +85,7 @@ Bots
 ----
 
 * [![GitHub](https://img.shields.io/badge/reddit-app--info--bot-black?logo=reddit)](https://github.com/fedecalendino/app-info-bot)
-* [![GitHub](https://img.shields.io/badge/reddit-reddit--graph-black?logo=reddit)](https://github.com/fedecalendino/reddit-graph) [![Version](https://img.shields.io/github/v/release/fedecalendino/reddit-graph-releases?label=&color=lightgrey&logo=github)](https://github.com/marketplace/actions/reddit-graph-releases)
+* [![GitHub](https://img.shields.io/badge/reddit-reddit--graph-black?logo=reddit)](https://github.com/fedecalendino/reddit-graph) [![Version](https://img.shields.io/github/v/release/fedecalendino/reddit-graph-releases?label=&color=lightgrey&logo=github)](https://github.com/fedecalendino/reddit-graph-releases/releases)
 * [![GitHub](https://img.shields.io/badge/spotify-spotify--companion-black?logo=spotify)](https://github.com/fedecalendino/spotify-companion)
 
 
