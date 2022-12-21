@@ -69,7 +69,7 @@ PROJECTS
 * [![GitHub](https://img.shields.io/badge/alfred-string--toolkit-black?logo=alfred)](https://github.com/fedecalendino/alfred-string-toolkit) [![Version](https://img.shields.io/github/v/release/fedecalendino/alfred-string-toolkit?label=&color=lightgrey&logo=github)](https://github.com/fedecalendino/alfred-string-toolkit/releases)
 * [![GitHub](https://img.shields.io/badge/alfred-world--clock-black?logo=alfred)](https://github.com/fedecalendino/alfred-world-clock) [![Version](https://img.shields.io/github/v/release/fedecalendino/alfred-world-clock?label=&color=lightgrey&logo=github)](https://github.com/fedecalendino/alfred-world-clock/releases)
 
-🪙 · 💱 · 🧉 · 🥠 · 🔑 · 🎲 · 🔤 · 🌐
+🪙 · 💱 · 🧉 · 🥠 · 📨️ · 🔑 · 🎲 · 🔤 · 🌐
 
 
 GitHub Actions
