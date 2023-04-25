@@ -13,7 +13,7 @@ Currently working as a Software Engineer at [Microsoft <img src="https://avatars
 WHERE?
 ------
 
-I'm from [Bahía Blanca, Argentina](https://goo.gl/maps/yCJYkgUgTPEzmUKaA)  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/flag-argentina_1f1e6-1f1f7.png" width="16" height="16">
+I'm from [Bahía Blanca, Argentina](https://goo.gl/maps/yCJYkgUgTPEzmUKaA)  <img src="https://em-content.zobj.net/thumbs/240/apple/354/flag-argentina_1f1e6-1f1f7.png" width="16" height="16">
 
 I'm currently living in [Thame, United Kingdom](https://goo.gl/maps/fZ239amHZXhqQEMs5) <img src="https://em-content.zobj.net/thumbs/240/apple/354/flag-united-kingdom_1f1ec-1f1e7.png" width="16" height="16">
 
@@ -39,7 +39,7 @@ My favorite things to work on:
 WHEN?
 -----
 
-For [<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/mate_1f9c9.png" width="16" height="16">](https://en.wikipedia.org/wiki/Yerba_mate) or <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/beer-mug_1f37a.png" width="16" height="16">? Anytime!
+For [<img src="https://em-content.zobj.net/thumbs/240/apple/354/mate_1f9c9.png" width="16" height="16">](https://en.wikipedia.org/wiki/Yerba_mate) or <img src="https://em-content.zobj.net/thumbs/240/apple/354/beer-mug_1f37a.png" width="16" height="16">? Anytime!
 
 
 PROJECTS
