@@ -60,8 +60,9 @@ PROJECTS
 [Alfred Workflows](https://alfredapp.com/workflows)
 ------------------
 
+* [![GitHub](https://img.shields.io/badge/alfred-bookmarks-black?logo=alfred)](https://github.com/fedecalendino/alfred-bookmarks) [![Version](https://img.shields.io/github/v/release/fedecalendino/alfred-bookmarks?label=&color=lightgrey&logo=github)](https://github.com/fedecalendino/alfred-bookmarks/releases)
 * [![GitHub](https://img.shields.io/badge/alfred-crypto--prices-black?logo=alfred)](https://github.com/fedecalendino/alfred-crypto-prices) [![Version](https://img.shields.io/github/v/release/fedecalendino/alfred-crypto-prices?label=&color=lightgrey&logo=github)](https://github.com/fedecalendino/alfred-crypto-prices/releases)
-* [![GitHub](https://img.shields.io/badge/alfred-currency--converter-black?logo=alfred)](https://github.com/fedecalendino/alfred-currency-converter) [![Version](https://img.shields.io/github/v/release/fedecalendino/alfred-currency-converter?label=&color=lightgrey&logo=github)](https://github.com/fedecalendino/alfred-currency-converter/releases)  
+* [![GitHub](https://img.shields.io/badge/alfred-currency--converter-black?logo=alfred)](https://github.com/fedecalendino/alfred-currency-converter) [![Version](https://img.shields.io/github/v/release/fedecalendino/alfred-currency-converter?label=&color=lightgrey&logo=github)](https://github.com/fedecalendino/alfred-currency-converter/releases) 
 * [![GitHub](https://img.shields.io/badge/alfred-emoji--mate-black?logo=alfred)](https://github.com/fedecalendino/alfred-emoji-mate) [![Version](https://img.shields.io/github/v/release/fedecalendino/alfred-emoji-mate?label=&color=lightgrey&logo=github)](https://github.com/fedecalendino/alfred-emoji-mate/releases)    
 * [![GitHub](https://img.shields.io/badge/alfred-fortune--cookie-black?logo=alfred)](https://github.com/fedecalendino/alfred-fortune-cookie) [![Version](https://img.shields.io/github/v/release/fedecalendino/alfred-fortune-cookie?label=&color=lightgrey&logo=github)](https://github.com/fedecalendino/alfred-fortune-cookie/releases)
 * [![GitHub](https://img.shields.io/badge/alfred-minute--inbox-black?logo=alfred)](https://github.com/fedecalendino/alfred-minute-inbox) [![Version](https://img.shields.io/github/v/release/fedecalendino/alfred-minute-inbox?label=&color=lightgrey&logo=github)](https://github.com/fedecalendino/alfred-minute-inbox/releases)
@@ -70,7 +71,7 @@ PROJECTS
 * [![GitHub](https://img.shields.io/badge/alfred-string--toolkit-black?logo=alfred)](https://github.com/fedecalendino/alfred-string-toolkit) [![Version](https://img.shields.io/github/v/release/fedecalendino/alfred-string-toolkit?label=&color=lightgrey&logo=github)](https://github.com/fedecalendino/alfred-string-toolkit/releases)
 * [![GitHub](https://img.shields.io/badge/alfred-world--clock-black?logo=alfred)](https://github.com/fedecalendino/alfred-world-clock) [![Version](https://img.shields.io/github/v/release/fedecalendino/alfred-world-clock?label=&color=lightgrey&logo=github)](https://github.com/fedecalendino/alfred-world-clock/releases)
 
-🪙 · 💱 · 🧉 · 🥠 · 📨️ · 🔑 · 🎲 · 🔤 · 🌐
+⭐ · 🪙 · 💱 · 🧉 · 🥠 · 📨️ · 🔑 · 🎲 · 🔤 · 🌐
 
 
 GitHub Actions
