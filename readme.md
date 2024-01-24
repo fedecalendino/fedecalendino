@@ -105,5 +105,6 @@ Notebooks
 ![Avatar: The Last Airbender](https://raw.githubusercontent.com/fedecalendino/binging-stonks/main/img/avatar-the-last-airbender.png)
 > [Try it out! @ MyBinder](https://mybinder.org/v2/gh/fedecalendino/binging-stonks/main?labpath=notebook.ipynb)
 
+---
 
-
+> Using the latest technology to develop tools to allow businesses to connect global solutions.
